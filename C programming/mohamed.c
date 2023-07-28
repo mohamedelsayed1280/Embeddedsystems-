@@ -36,7 +36,7 @@ else if (condition==3)
 }
 else 
 {
- float mul =first_num / second_num ;
+ float mul =(float)first_num / second_num ;
     printf("the mul is = %f", mul);   
 
 }
